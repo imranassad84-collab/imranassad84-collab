@@ -62,7 +62,7 @@
 ## Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imranassad84-collab/imranassad84/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/imranassad84-collab/imranassad84-collab/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
