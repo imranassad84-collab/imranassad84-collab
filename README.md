@@ -45,14 +45,14 @@
 <div align="center">
 
 <a href="https://github.com/imranassad84-collab">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranassad84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imran's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranassad84-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imran's GitHub Stats" width="48%" />
 </a>
 <a href="https://github.com/imranassad84-collab">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranassad84&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranassad84-collab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </a>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranassad84&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranassad84-collab&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 </div>
