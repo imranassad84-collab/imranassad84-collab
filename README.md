@@ -66,7 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-assad-b140a43b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranassad84@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-16161e?style=for-the-badge&logo=safari&logoColor=7AA2F7)](https://github.com/ImranAssad84)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16161e?style=for-the-badge&logo=safari&logoColor=7AA2F7)](https://imranassad.wuaze.com/)
 
 </div>
 
